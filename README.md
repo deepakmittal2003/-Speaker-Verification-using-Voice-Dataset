@@ -5,6 +5,10 @@ deep learning model capable of accurately identifying and verifying the speaker'
 voice samples. The model should effectively distinguish between different speakers and provide
 reliable authentication based on their unique vocal characteristics.
 
+#### Aim
+To develop an efficient system for accurately identifying individuals based on their
+voice characteristics.
+
 #### Tools
 
 Python 3.5 (or above) is used during development and following libraries are required to run the code provided in the notebook:
