@@ -29,7 +29,6 @@ Splitting the dataset into training and testing sets.
 Training the neural network model on the training data.
 Validating the model's performance on the testing data and monitoring for overfitting.
 ## Model Evaluation:
-
 Evaluating the trained model's performance using metrics like accuracy.
 Assessing the model's ability to generalize to unseen data.
 ## Testing with New Audio Data:
